@@ -40,9 +40,10 @@ Navegação nos menus:
 > Google
 ```
 
-### 2. Geração do Site Falso
+2. Geração do Site Falso
+Inicialmente, foi tentada a clonagem da página do Facebook, mas o SEToolkit não conseguiu replicar a estrutura complexa do site devido a proteções modernas (JavaScript dinâmico, Content Security Policy, etc). Por isso, optou-se por usar o template falso do Google disponibilizado pelo SET.
 
-A ferramenta iniciou automaticamente um servidor com uma página falsa de login simulando o Google, disponível no seguinte endereço de rede local:
+A ferramenta iniciou automaticamente um servidor com a página falsa de login do Google, disponível no seguinte endereço de rede local:
 
 ```
 http://192.168.0.109
