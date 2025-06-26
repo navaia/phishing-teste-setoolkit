@@ -40,7 +40,7 @@ Navegação nos menus:
 > Google
 ```
 
-### 1. Geração do site falso
+### 2. Geração do site falso
 
 Inicialmente, foi tentada a clonagem da página do Facebook, mas o SEToolkit não conseguiu replicar a estrutura complexa do site devido a proteções modernas (JavaScript dinâmico, Content Security Policy, etc). Por isso, optou-se por usar o template falso do Google disponibilizado pelo SET.
 
